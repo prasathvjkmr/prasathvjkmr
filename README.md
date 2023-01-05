@@ -1,17 +1,16 @@
 <h1 align="center">Hi :wave:, I'm Prasath</h1>
 <h3 align="center">git commit -m "Hello, I'm a Frontend Developer"</h3>
 
-### Liked my Contributions:question::point_right: [Nominate me for Github Stars](https://stars.github.com/nominate/) :star: :sparkles:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasathvjkmr&label=Profile%20views&color=0e75b6&style=plastic" alt="prasathvjkmr" /> </p>
 
-- 👨‍💻 All about is at [My Website](https://prasathvjkmr.github.io/)
+- 👨‍💻 All about is at [My Website](https://prasathvjkmr.netlify.app/)
 - 💬 Ask me about ```var topics = ["HTML", "CSS", "SASS", "BOOTSTRAP", "JAVASCRIPT", "REACT"]```
 - 📫 How to reach me **prasathvjkmr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/prasathvjkmr" target="blank">LinkedIn</a>, 
-<a href="https://instagram.com/prasathvjkmr" target="blank">Instagram</a>
+<a href="https://linkedin.com/in/prasathvjkmr" target="blank">LinkedIn</a>
 </p>
 
 <h3 align:"left">Languages and Tools:</h3>
