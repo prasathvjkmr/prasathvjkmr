@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasathvjkmr&label=Profile%20views&color=0e75b6&style=plastic" alt="prasathvjkmr" /> </p>
 
 - 👨‍💻 All about is at [My Website](https://prasathvjkmr.netlify.app/)
-- 💬 Ask me about ```var topics = ["HTML", "CSS", "SASS", "BOOTSTRAP", "JAVASCRIPT", "REACT"]```
+- 💬 Ask me about ```var topics = ["HTML", "CSS", "SASS", "CSS MODULES", "STYLED COMPONENTS", "BOOTSTRAP", "JAVASCRIPT", "REACT", "GATSBY"]```
 - 📫 How to reach me **prasathvjkmr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +21,8 @@
 <a href="https://getbootstrap.com/" target="_blank">BOOTSTRAP</a>, 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Javascript" target="_blank">JAVASCRIPT</a>, 
 <a href="https://beta.reactjs.org/" target="_blank">REACT</a>.
+<a href="https://www.gatsbyjs.com/" target="_blank">GATSBY</a>.
+<a href="https://blog.logrocket.com/a-deep-dive-into-css-modules/" target="_blank">CSS MODULES</a>.
+<a href="https://styled-components.com/" target="_blank">STYLED COMPONENTS</a>.
+ 
 </p>
