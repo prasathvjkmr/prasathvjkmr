@@ -20,9 +20,9 @@
 <a href="https://sass-lang.com/" target="_blank">SASS</a>, 
 <a href="https://getbootstrap.com/" target="_blank">BOOTSTRAP</a>, 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Javascript" target="_blank">JAVASCRIPT</a>, 
-<a href="https://beta.reactjs.org/" target="_blank">REACT</a>.
-<a href="https://www.gatsbyjs.com/" target="_blank">GATSBY</a>.
-<a href="https://blog.logrocket.com/a-deep-dive-into-css-modules/" target="_blank">CSS MODULES</a>.
+<a href="https://beta.reactjs.org/" target="_blank">REACT</a>,
+<a href="https://www.gatsbyjs.com/" target="_blank">GATSBY</a>,
+<a href="https://blog.logrocket.com/a-deep-dive-into-css-modules/" target="_blank">CSS MODULES</a>,
 <a href="https://styled-components.com/" target="_blank">STYLED COMPONENTS</a>.
  
 </p>
