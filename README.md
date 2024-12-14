@@ -7,8 +7,18 @@
 
 ---
 
-🌟 **About Me**
-```js const Prasath = {  code: ["HTML", "CSS", "SASS", "CSS MODULES", "STYLED COMPONENTS", "BOOTSTRAP", "JavaScript", "React", "Gatsby"],  tools: ["VSCode", "Figma", "GitHub", "Netlify", "Vercel"],  currentFocus: Building scalable React.js applications and pixel-perfect UI/UX",  askMeAbout: "Frontend Development, React, JavaScript, and Clean UI Design",  portfolio: "https://prasathvjkmr.netlify.app/",  email: "prasathvjkmr@gmail.com",};js```
+## 🌟 About Me
+
+```javascript
+const Prasath = {
+  code: ["HTML", "CSS", "SASS", "CSS MODULES", "STYLED COMPONENTS", "BOOTSTRAP", "JavaScript", "React", "Gatsby"],
+  tools: ["VSCode", "Figma", "GitHub", "Netlify", "Vercel"],
+  currentFocus: "Building scalable React.js applications and pixel-perfect UI/UX",
+  askMeAbout: "Frontend Development, React, JavaScript, and Clean UI Design",
+  portfolio: "https://prasathvjkmr.netlify.app/",
+  email: "prasathvjkmr@gmail.com",
+};
+
 
 🔗 **Connect with Me**
 
