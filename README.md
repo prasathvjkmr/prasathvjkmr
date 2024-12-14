@@ -1,3 +1,21 @@
+
+**To NOT show it as code:**
+Remove the backticks, and the text will appear inline.
+
+---
+
+### 4. **Check for Rendering Issues in GitHub Preview**  
+If you’ve already updated the file and it still shows raw text, check for the following:
+
+- **Encoding Issues:** Ensure the file is saved with UTF-8 encoding.
+- **Upload File Directly:** Make sure the file is committed and pushed to the correct GitHub repository.
+
+---
+
+### Fixed Version for Your README.md:
+Here’s the corrected version that avoids raw text rendering:
+
+```markdown
 <h1 align="center">Hi 👋, I'm Prasath K</h1>
 <h3 align="center">🚀 Frontend Developer | React.js Specialist | UI/UX Enthusiast</h3>
 
@@ -7,7 +25,7 @@
 
 ---
 
-🌟 **About Me**  
+### 🌟 About Me
 
 ```js
 const Prasath = {
@@ -18,5 +36,3 @@ const Prasath = {
   portfolio: "https://prasathvjkmr.netlify.app/",
   email: "prasathvjkmr@gmail.com",
 };
-
-<p align="left"> <a href="https://linkedin.com/in/prasathvjkmr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:prasathvjkmr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://prasathvjkmr.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a> </p>
