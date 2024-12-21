@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Frontend Developer | React.js Specialist | UI/UX Enthusiast</h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=prasathvjkmr&label=Profile%20views &color=blueviolet&style=flat" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=prasathvjkmr&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
