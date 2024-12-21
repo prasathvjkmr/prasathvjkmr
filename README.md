@@ -57,6 +57,7 @@ const Prasath = {
 <a href="https://remix.run/" target="_blank"><img src="https://img.shields.io/badge/Remix-%2320232A.svg?style=flat&logo=remix&logoColor=white" alt="Remix"></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white" alt="Styled Components"></a>
 <a href="https://semantic-ui.com/" target="_blank"><img src="https://img.shields.io/badge/Semantic%20UI-%23000F2F.svg?style=flat&logo=semantic-ui&logoColor=white" alt="Semantic UI"></a>
+<a href="https://ant.design/" target="_blank"><img src="https://img.shields.io/badge/Ant%20Design-%23000000.svg?style=flat&logo=ant-design&logoColor=white" alt="Ant Design"></a>
 <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white" alt="Gatsby"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
