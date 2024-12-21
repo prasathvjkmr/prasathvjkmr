@@ -52,8 +52,12 @@ const Prasath = {
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Javascript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"></a>
-<a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white" alt="Gatsby"></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite.js-%23000000.svg?style=flat&logo=vite&logoColor=yellow" alt="Vite.js"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+<a href="https://remix.run/" target="_blank"><img src="https://img.shields.io/badge/Remix-%2320232A.svg?style=flat&logo=remix&logoColor=white" alt="Remix"></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white" alt="Styled Components"></a>
+<a href="https://semantic-ui.com/" target="_blank"><img src="https://img.shields.io/badge/Semantic%20UI-%23000F2F.svg?style=flat&logo=semantic-ui&logoColor=white" alt="Semantic UI"></a>
+<a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white" alt="Gatsby"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
 </p>
