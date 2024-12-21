@@ -29,8 +29,7 @@ const Prasath = {
     "Gatsby",
   ],
   tools: ["VSCode", "Figma", "GitHub", "Netlify", "Vercel"],
-  currentFocus:
-    "Building scalable React.js applications and pixel-perfect UI/UX",
+  currentFocus: "Building scalable React.js applications and pixel-perfect UI/UX",
   askMeAbout: "Frontend Development, React Js, JavaScript, and Clean UI Design",
   portfolio: "https://prasathvjkmr.netlify.app/",
   email: "prasathvjkmr@gmail.com",
