@@ -15,36 +15,10 @@ Hi there! 👋 I'm Prasath, a passionate Frontend Developer with expertise in bu
 ```js
 const Prasath = {
   code: {
-    frontend: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Gatsby"
-    ],
-    css: [
-      "SASS",
-      "CSS MODULES",
-      "STYLED COMPONENTS",
-      "BOOTSTRAP",
-      "Tailwind CSS",
-      "Material UI",
-      "Ant Design",
-      "Sematic UI"
-    ],
-    libraries: [
-      "JQuery",
-      "Material UI",
-      "Bootstrap",
-      "Tailwind CSS",
-      "Ant Design"
-    ],
-    frameworks: [
-      "Next.js",    // React framework for server-side rendering
-      "Remix",      // Full stack React framework with focus on fast web apps
-      "Gatsby",     // React framework for static sites and web apps
-      "Vite.js"     // Next-generation, fast build tool for modern web projects (often used with React)
-    ]
+   frontend: ["HTML","CSS","JavaScript","React","Gatsby"],
+   css: ["SASS","CSS MODULES","STYLED COMPONENTS","BOOTSTRAP","Tailwind CSS","Material UI","Ant Design","Sematic UI"],
+   libraries: ["JQuery","Material UI","Bootstrap","Tailwind CSS","Ant Design"],
+   frameworks: ["Next.js","Remix","Gatsby","Vite.js"]
   },
   tools: ["VSCode", "Figma", "GitHub", "Netlify", "Vercel"],
   currentFocus: "Building scalable React.js applications and pixel-perfect UI/UX",
