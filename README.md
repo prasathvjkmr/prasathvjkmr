@@ -77,15 +77,13 @@ const Prasath = {
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasathvjkmr&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prasathvjkmr&theme=react&hide_border=true" alt="GitHub Streak" /></a>
 
 ---
 
 ## 🎯 Fun Facts
 
-- I turn coffee ☕ into clean code.
+- I turn tea ☕ into clean code.
 - Debugging is like being a detective in a crime movie where you are both the victim and the culprit.
 
 ---
